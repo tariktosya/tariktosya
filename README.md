@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tarık! 
 
-[![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tarik.tosya@gmail.com)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tar%C4%B1k-tosya-2a196a215/)
 
 <!--
 **tariktosya/tariktosya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
