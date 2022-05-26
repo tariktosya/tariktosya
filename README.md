@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tarık! 
+###                     Hi there 👋, I'm Tarık! 
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tar%C4%B1k-tosya-2a196a215/)
 
